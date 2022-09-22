@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jaegu
+ *
+ */
+module OperationBetweenDataType {
+}
